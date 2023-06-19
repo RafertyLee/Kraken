@@ -31,13 +31,13 @@ kRPC 是坎巴拉太空计划(Kerbal Space Program, KSP)这款游戏的一个MOD
 
 ## 我们诚挚邀请您加入到项目中来
 对于专业人员，怀抱着对KSP和kRPC的热爱，非常欢迎您加入我们，从对简单发射的尝试变为对目前最伟大也是唯一（悲）的kRPC库的贡献中来，集思广益，共同达到个人无法企及的成就。\
-您可以提交pull request，或者联系项目维护者 @RafertyLee 、贡献者 @MrGEFORCE
+您可以提交pull request，或者联系项目维护者 [@RafertyLee](https://github.com/RafertyLee) 、贡献者 [@MrGEFORCE](https://github.com/MrGEFORCE)
 
-### @RafertyLee其他联系方式
+### [@RafertyLee](https://github.com/RafertyLee)其他联系方式
 - 邮箱：raferty2006@outlook.com
 - QQ：3546889584
 
-### @MrGEFORCE其他联系方式
+### [@MrGEFORCE](https://github.com/MrGEFORCE)其他联系方式
 
 - 邮箱：mr_geforce@qq.com
 - Bilibili：[Mr_GEFORCE的bilibili空间](https://space.bilibili.com/22746431)
