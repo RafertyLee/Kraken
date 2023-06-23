@@ -12,7 +12,7 @@ While Deep Space Krakens are randomly popping up at your journey to Duna and rui
 
 ## Our philosophy
 
-- **Programming**: Many KSP players enjoys watching their neat and tidy computer programs automatically controls their rockets lifting off. We aim to enhance the enjoyment by providing players with easy access to complex and advanced controlling method.
+- **Programming**: Many KSP players enjoy watching their neat and tidy computer programs automatically controlling their rockets lifting off. We aim to enhance the enjoyment by providing players with easy access to complex and advanced controlling method.
 - **Gaming**: Lots of repeated operations exists in KSP, which is kinda boring when you need to launch numerous same vehicles to complete a mission or contract. We aim to reduce or eliminate such operations, thus boosting gaming experience.
 - **Guidance**: kRPC lack of advanced examples, leading to that players need to spend desent amount of time "exploring" kRPC. We aim to provice tutorial and examples for players to quick get the hang of **Project Kraken**.
 - **Visualization**: Vessel controlling is ABSTRACT. We aim to provide players with intuitive graphs and 3d animations that we may also see at real-world mission control centers. 

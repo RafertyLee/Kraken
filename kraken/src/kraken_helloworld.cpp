@@ -1,9 +1,11 @@
 // kraken_helloworld.cpp
-// ³õÊ¼Õ¼Î»ÎÄ¼ş
+// åˆå§‹å ä½æ–‡ä»¶
 
 #include <iostream>
 
-#include "kraken.h" // °üº¬²âÊÔÍ·ÎÄ¼ş£¬¼ìÑé°üº¬Ä¿Â¼ÕıÈ·
+#include <Eigen/Dense> // Eigenåº“
+
+#include "kraken.h" // åŒ…å«æµ‹è¯•å¤´æ–‡ä»¶ï¼Œæ£€éªŒåŒ…å«ç›®å½•æ­£ç¡®
 
 int main()
 {
