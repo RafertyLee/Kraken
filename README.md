@@ -12,22 +12,22 @@ While Deep Space Krakens are randomly popping up at your journey to Duna and rui
 
 **Project Kraken is currently in the start-up stage. All the descriptions below are what we expect to realize.**
 
-kRPC is a mod for the game Kerbal Sapce Program. With kRPC, you can take control of the vehicles in the game in the form of coding. **Project Kraken** is a <u>dynamic linked libary</u> project based on kRPC C++ Lib. It aims to provide players with easy access to complex operations such as automatic ascending, landing and docking as well as detailed tutorials about **Project Kraken**. 
+kRPC is a mod for the game Kerbal Space Program. With kRPC, you can take control of the vehicles in the game via programming. **Project Kraken** is a <u>dynamic linked libary</u> project based on kRPC C++ Lib. It aims to provide players with easy access to complex operations such as automatic ascending, landing and docking as well as detailed tutorials about **Project Kraken**. 
 
 ### Features
 
-- Kraken is cross lingual: just like kRPC, you can call Kraken lib in the common programming languages like Java, Python, C#, C and so on.
-- Kraken is based on kRPC: we use the same data structures in kRPC and Kraken can be mixed with kRPC coding.
-- Kraken is modular: Kraken is based on basic physic functions and control algorithms. Function modules in different levels and purposes are constructed and the corresponding APIs will be provided.
+- **Cross lingual**: just like kRPC, you can call Kraken lib in popular programming languages like Java, Python, C#, C and so on.
+- **Based on kRPC**: we use the same data structures in kRPC and Kraken can be mixed with kRPC coding.
+- **Modular**: Project Kraken is based on a variety of basic physics functions and controlling algorithms. Function modules at different levels and purposes are constructed and the corresponding APIs will be provided.
 
 ## Goals
 
-- **For programming**: Many KSP players enjoys watching their neat and tidy computer programs automatically controls their rockets lifting off. We aim to enhance the enjoyment by providing players with easy access to complex and advanced controlling method.
-- **For gaming**: Lots of repeated operations exists in KSP, which is kinda boring when you need to launch numerous same vehicles to complete a mission or contract. We aim to reduce or eliminate such operations, thus boosting gaming experience.
-- **Lower the threshold**: If a player who is not familiar with programming or even the fundamental pyhsical rules in the aerospace field, the kRPC is extreamly hard to begin with. Although Kraken is also coding, you can use few lines to implement some specific procedures like automatical launch or docking very quickly.
-- **More guidance**: kRPC is lack of advanced examples, leading to that players need to spend desent amount of time "exploring" kRPC. We aim to provide more tutorial and examples for players to quick get the hang of **Project Kraken**.
-- **Avoiding duplicate work**: kRPC gives a lot of data interfaces and the forms of interaction, but no solutions to a specific procedure like launch or recovery is provided. It's common but wasteful that you can find almost every kRPC developers has a unique PID controller written by themselves. We want to give some frequently-used modules to avoid duplication.
-- **Visualization**: The computation in the programming is ABSTRACT. We aim to provide players with intuitive graphs and 3d animations that we may also see at real-world mission control centers. You can check whether the data in the computing space is same to your imagination or not immediately.
+- **More Programming Enjoyment**: Many KSP players enjoys watching their neat and tidy computer programs automatically controls their rockets lifting off. We aim to enhance the enjoyment by providing players with easy access to complex and advanced controlling method.
+- **Better gaming experience**: Lots of repeated operations exists in KSP, which is kinda boring when you need to launch numerous same vehicles to complete a mission or contract. We aim to reduce or eliminate such operations, thus boosting gaming experience.
+- **Easier learning**: If a player who is not familiar with programming or even the fundamental pyhsical rules in the aerospace field, the kRPC is extreamly hard to begin with. Although Kraken is also coding, you can use few lines to implement some specific procedures like automatical launch or docking very quickly.
+- **Better guidance**: kRPC is lack of advanced examples, leading to that players need to spend desent amount of time "exploring" kRPC. We aim to provide more tutorial and examples for players to quick get the hang of **Project Kraken**.
+- **Less repetition**: kRPC gives a lot of data interfaces and the forms of interaction, but no solutions to a specific procedure like launch or recovery is provided. It's common but wasteful that you can find almost every kRPC developers has a unique PID controller written by themselves. We want to give some frequently-used modules to avoid duplication.
+- **Intuitive Visualization**: The computation in the programming is ABSTRACT. We aim to provide players with intuitive graphs and 3d animations that we may also see at real-world mission control centers. You can check whether the data in the computing space is same to your imagination or not immediately.
 
 ### Community
 
