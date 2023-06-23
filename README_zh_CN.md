@@ -70,5 +70,3 @@ kRPC 是坎巴拉太空计划(Kerbal Space Program, KSP)这款游戏的一个MOD
 - Q群号：[830266535](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=49Yx0OIPuIwxxp71M4efdLDjUSkulXog&authKey=fYoJ320TiF%2Fu8kcAQBIxig4WzKFTQDY5URf7TfKWB9EwL8yGcpCZ6mH6AbPN6EFq&noverify=0&group_code=830266535)
 
 ---
-
-
