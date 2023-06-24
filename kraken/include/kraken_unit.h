@@ -44,9 +44,14 @@ namespace kraken
 		// 直接相对于绝对参考系创建参考系
 		reference_frame(vec3 position, vec3 velocity, vec3 ang_velocity, quaternion rotation);
 
-		// 将目前参考系由原参考系转换为新参考系
+		// 将目前参考系由原绝对参考系转换为新绝对参考系
 		// prev_ref：原参考系相对新参考系
 		reference_frame to_ref_frame(const reference_frame& prev_ref);
+
+		// 获取同一绝对参考系的两参考系rel,abs中rel相对于abs的相对参考系
+		// 举例：LKO中两艘正在对接中的飞船rel,abs，传入rel和abs相对于绝对参考系，获取rel相对abs的参考系
+		static reference_frame relative(const reference_frame& rel, const reference_frame& abs);
+		
 	};
 
 	// 相对向量，适用于速度，位置和力
@@ -80,6 +85,4 @@ namespace kraken
 	// 可以为相对时刻/绝对时刻
 	// 欲要转换直接计算即可
 	typedef scalar time;
-
-	// TODO：扭矩
 }
