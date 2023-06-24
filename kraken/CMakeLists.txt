@@ -3,7 +3,12 @@ set(INC_PATH "./include")
 
 # add all source files
 aux_source_directory(${SRC_PATH} SRC_LIST)
-add_executable (Kraken ${SRC_LIST})
+aux_source_directory(${INC_PATH} INC_LIST)
+add_executable (Kraken ${SRC_LIST} ${INC_LIST})
+
+# Eigen Library
+find_package(Eigen3 CONFIG REQUIRED)
+target_link_libraries(Kraken PRIVATE Eigen3::Eigen)
 
 target_include_directories(Kraken PRIVATE ${INC_PATH})
 
