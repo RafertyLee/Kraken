@@ -1,6 +1,6 @@
 # Project Kraken
 
-## Langeuge
+## Language
 
 #### [zh_CN](https://github.com/RafertyLee/Kraken/blob/main/README_zh_CN.md)
 
