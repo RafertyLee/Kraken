@@ -1,0 +1,18 @@
+spec_version: v1.27
+identifier: kraken-console
+name: Kraken Console
+abstract: 
+author:
+  - RAT-L
+  - RafertyLee
+$kref: '#/ckan/github/RafertyLee/Kraken'
+release_status: development
+tags:
+  - app
+  - control
+  - convenience
+ksp_version: 1.12
+license: AGPL-3.0
+resources: 
+  repository: https://github.com/RafertyLee/Kraken
+  bugtracker: https://github.com/RafertyLee/Kraken/issues
