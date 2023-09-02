@@ -1,22 +1,22 @@
 spec_version: v1.27
-identifier: kraken-console
+identifier: KrakenConsole
 name: Kraken Console
-abstract: 
+abstract: An in-game console for KSP
 author:
   - RAT-L
   - RafertyLee
-$kref: '#/ckan/github/RafertyLee/Kraken'
-release_status: development
+$kref: '#/ckan/github/RafertyLee/Kraken/asset_match/KrakenConsole\.zip'
+x_netkan_version_edit:
+  find: Kraken_Console_
+  replace: ''
+  strict: false
+ksp_version: any
+license: AGPL-3.0
 tags:
   - app
   - control
   - convenience
-ksp_version: 1.12
-license: AGPL-3.0
-resources: 
-  repository: https://github.com/RafertyLee/Kraken
-  bugtracker: https://github.com/RafertyLee/Kraken/issues
-  install:
-  - find_regexp: kraken_console.*\.dll$
+install:
+  - find: KrakenConsole.dll
     find_matches_files: true
-    install_to: GameData
+    install_to: GameData/KrakenConsole
