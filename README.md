@@ -55,7 +55,7 @@ Communities bring greatness. We hope to make **Project Kraken** a community for 
 
 - Project owner [@RafertyLee](https://github.com/RafertyLee)
   
-  - Email: [raferty2006@outlook.com](mailto:raferty2006@outlook.com)
+  - Email: [raferty2006@outlook.com](mailto:raferty.opensource@outlook.com)
 
 - Contributor [@MrGEFORCE](https://github.com/MrGEFORCE)
   

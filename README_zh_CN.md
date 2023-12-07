@@ -56,7 +56,7 @@ kRPC 是坎巴拉太空计划(Kerbal Space Program, KSP)这款游戏的一个MOD
 
 #### [@RafertyLee](https://github.com/RafertyLee)其他联系方式
 
-- 邮箱：[raferty2006@outlook.com](mailto:raferty2006@outlook.com)
+- 邮箱：[raferty2006@outlook.com](mailto:raferty.opensource@outlook.com)
 - QQ：3546889584
 
 #### [@MrGEFORCE](https://github.com/MrGEFORCE)其他联系方式
